@@ -12,7 +12,7 @@ title                    : "Festus Adegbola"
 title_separator          : "-"
 name                     : &name "Festus Adegbola"
 description              : &description "PhDing at UB"
-url                      : "https://festusadegbola.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://festuus.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "festusadegbola.github.io"
 
