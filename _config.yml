@@ -21,7 +21,7 @@ repository               : "festusadegbola.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_image.png"
   name             : "Festus Adegbola"
   pronouns         : # example: "she/her"  
   bio              : 
