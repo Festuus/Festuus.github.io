@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome. I’m Festus Adegbola, a PhD Candidate in the Department of Geography at the University at Buffalo, where I specialize in Earth Systems Science with a focus on biodiversity monitoring, remote sensing, and environmental change.
+Hello and welcome. I’m Festus Adegbola, a PhD Candidate in the [Department of Geography at the University at Buffalo](https://www.buffalo.edu/cas/geography/about-us.html), where I specialize in Earth Systems Science with a focus on biodiversity monitoring, remote sensing, and environmental change.
 
 Current Work 
 ======
