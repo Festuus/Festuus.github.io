@@ -9,23 +9,16 @@ redirect_from:
 
 Hello and welcome. I’m Festus Adegbola, a PhD Candidate in the Department of Geography at the University at Buffalo, where I specialize in Earth Systems Science with a focus on biodiversity monitoring, remote sensing, and environmental change.
 
-A data-driven personal website
+Current Work 
 ======
 
 My research examines how ecological patterns—particularly bird species distributions—are shaped by habitat structure, climate variability, and human disturbance. I integrate advanced tools such as lidar, hyperspectral imagery, and acoustic monitoring to map fine-scale habitat traits and assess their influence on species richness.
 
-I currently serve as a NASA FINESST Fellow and lead research efforts within the BioScape and BioSoundScape projects, initiatives aimed at enhancing biodiversity monitoring through innovative remote sensing and modeling approaches. My work supports science-informed conservation and environmental policy, both in the U.S. and globally.
+I currently serve as a NASA FINESST Fellow and contribute to research efforts within the [BioScape](https://www.bioscape.io/) and [BioSoundScape](https://storymaps.arcgis.com/stories/aaa4835da57c4405b4dfd3a03d3ae2c7) projects, initiatives aimed at enhancing biodiversity monitoring through innovative remote sensing and modeling approaches. My work supports science-informed conservation and environmental policy, both in the U.S. and globally.
 
 Beyond research, I’m an active teacher, mentor, and advocate for scientific communication, with a strong commitment to fostering equitable access to environmental data and decision-making tools.
 
 This website offers an overview of my academic journey, research projects, publications, opportunities for collaboration, and my hobbies. Thank you for visiting—I invite you to explore and connect.
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
 
 
 How to edit your site's GitHub repository
