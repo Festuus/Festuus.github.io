@@ -14,11 +14,11 @@ Current Work
 
 My research examines how ecological patterns—particularly bird species distributions—are shaped by habitat structure, climate variability, and human disturbance. I integrate advanced tools such as lidar, hyperspectral imagery, and acoustic monitoring to map fine-scale habitat traits and assess their influence on species richness.
 
-I currently serve as a NASA FINESST Fellow and contribute to research efforts within the [BioSCape](https://www.bioscape.io) [BioScape](https://www.bioscape.io/) and [BioSoundScape](https://storymaps.arcgis.com/stories/aaa4835da57c4405b4dfd3a03d3ae2c7) projects, initiatives aimed at enhancing biodiversity monitoring through innovative remote sensing and modeling approaches. My work supports science-informed conservation and environmental policy, both in the U.S. and globally.
+I currently serve as a NASA FINESST Fellow and contribute to research efforts within the [BioSCape](https://www.bioscape.io) and [BioSoundScape](https://storymaps.arcgis.com/stories/aaa4835da57c4405b4dfd3a03d3ae2c7) projects, initiatives aimed at enhancing biodiversity monitoring through innovative remote sensing and modeling approaches. My work supports science-informed conservation and environmental policy, both in the U.S. and globally.
 
-Beyond research, I’m an active teacher, mentor, and advocate for scientific communication, with a strong commitment to fostering equitable access to environmental data and decision-making tools.
+Beyond research, I’m an active teacher, mentor, and advocate for scientific communication, with a strong commitment to fostering equitable access to environmental data and decision-making tools. I am also a professional musician (I play the keys 🎹 and alto sax 🎷)
 
-This website offers an overview of my academic journey, research projects, publications, opportunities for collaboration, and my hobbies. Thank you for visiting—I invite you to explore and connect.
+This website gives an overview of my academic journey, research projects, publications, opportunities for collaboration, and my hobbies. Thank you for visiting—I invite you to explore and connect.
 
 
 How to edit your site's GitHub repository
